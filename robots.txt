@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404
+Disallow: /_
+
+Sitemap: https://www.pantaluren.se/sitemap.xml
